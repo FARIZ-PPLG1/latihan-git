@@ -1,3 +1,4 @@
 <?php
-    echo "Halo Guys"
+    echo "Halo Guys";
+    echo "contoh";
 ?>
